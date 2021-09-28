@@ -1,2 +1,2 @@
 # Abhijith
-This is thr README file
+This is the README file
